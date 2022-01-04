@@ -1,4 +1,0 @@
-[package]
-script_dir = scripts/ESnet/DPDK
-build_command = ./configure && make
-test_command = cd tests && btest

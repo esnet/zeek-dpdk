@@ -1,4 +1,0 @@
-Checks: '-*,
-         bugprone-*,
-         clang-analyzer-*,
-         performance-*'
